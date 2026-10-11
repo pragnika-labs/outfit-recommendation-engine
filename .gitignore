@@ -5,6 +5,7 @@ __pycache__/
 
 # Dataset
 data/images/
+data/styles.csv
 data/*.zip
 
 # VS Code
